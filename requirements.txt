@@ -1,0 +1,4 @@
+python-pptx>=0.6.23
+lxml
+pillow
+markitdown[pptx]
